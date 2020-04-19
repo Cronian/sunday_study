@@ -45,3 +45,6 @@ Toby's Spring &amp; Algorithm &amp; Interview &amp; Design Pattern
 - [[Easy] Single Number](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/528/week-1/3283/)
 - [[Easy] Happy Number](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/528/week-1/3284/)
 - [[Medium] Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)
+
+## 9주차
+- [[Medium] Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
