@@ -54,5 +54,5 @@ Toby's Spring &amp; Algorithm &amp; Interview &amp; Design Pattern
 - Builder 패턴
 
 ## 11주차
-- 토비 5.1
+- 토비 5.2 - 트랜잭션 서비스 추상화까지
 - Proxy 패턴
