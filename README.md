@@ -48,3 +48,11 @@ Toby's Spring &amp; Algorithm &amp; Interview &amp; Design Pattern
 
 ## 9주차
 - [[Medium] Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
+
+## 10주차
+- 토비 4장:예외
+- Builder 패턴
+
+## 11주차
+- 토비 5.1
+- Proxy 패턴
