@@ -56,3 +56,6 @@ Toby's Spring &amp; Algorithm &amp; Interview &amp; Design Pattern
 ## 11주차
 - 토비 5.2 - 트랜잭션 서비스 추상화까지
 - Proxy 패턴
+- Blocking-NonBlocking-Synchronous-Asynchronous :
+- - https://homoefficio.github.io/2017/02/19/Blocking-NonBlocking-Synchronous-Asynchronous/
+- - https://heecheolman.tistory.com/48
