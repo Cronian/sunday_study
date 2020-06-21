@@ -59,3 +59,12 @@ Toby's Spring &amp; Algorithm &amp; Interview &amp; Design Pattern
 - Blocking-NonBlocking-Synchronous-Asynchronous :
 - - https://homoefficio.github.io/2017/02/19/Blocking-NonBlocking-Synchronous-Asynchronous/
 - - https://heecheolman.tistory.com/48
+
+## 12주차
+- 토비 6.1 ~ 6.3 - AOP, Reflection
+- - https://johngrib.github.io/wiki/java8-why-permgen-removed/
+- - http://openjdk.java.net/jeps/122
+- - https://johngrib.github.io/wiki/jvm-memory/
+- Command 패턴
+- - https://johngrib.github.io/wiki/command-pattern/
+* 존그립님 최고
